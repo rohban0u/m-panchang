@@ -1,0 +1,4652 @@
+{
+  "2025-07-01": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:09",
+          "slot": 1,
+          "start": "04:27",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "01:52",
+          "slot": 2,
+          "start": "03:09",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "00:35",
+          "slot": 3,
+          "start": "01:52",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:17",
+          "slot": 4,
+          "start": "00:35",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:17",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "23:17",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "06:35",
+          "slot": 5,
+          "start": "23:17",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "13:53",
+          "slot": 6,
+          "start": "06:35",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:10",
+          "slot": 7,
+          "start": "13:53",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "04:28",
+          "slot": 8,
+          "start": "21:10",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ]
+    },
+    "date": "01-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:28:10",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Chitra",
+      "tithi": "Saptami",
+      "yoga": "Sadhya"
+    },
+    "sunrise": "04:27:25",
+    "sunset": "18:07:46",
+    "timezone": "Asia/Kolkata",
+    "weekday": 3
+  },
+  "2025-07-02": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:10",
+          "slot": 1,
+          "start": "04:27",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "01:52",
+          "slot": 2,
+          "start": "03:10",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "00:35",
+          "slot": 3,
+          "start": "01:52",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "23:17",
+          "slot": 4,
+          "start": "00:35",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:17",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:18",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "06:35",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "13:53",
+          "slot": 6,
+          "start": "06:35",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "21:10",
+          "slot": 7,
+          "start": "13:53",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "04:28",
+          "slot": 8,
+          "start": "21:10",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ]
+    },
+    "date": "02-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:28:34",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Swati",
+      "tithi": "Ashtami",
+      "yoga": "Shubha"
+    },
+    "sunrise": "04:27:47",
+    "sunset": "18:07:47",
+    "timezone": "Asia/Kolkata",
+    "weekday": 4
+  },
+  "2025-07-03": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "grey",
+          "end": "03:10",
+          "slot": 1,
+          "start": "04:28",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "01:53",
+          "slot": 2,
+          "start": "03:10",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "00:35",
+          "slot": 3,
+          "start": "01:53",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "23:17",
+          "slot": 4,
+          "start": "00:35",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:17",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "23:18",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "06:36",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "13:53",
+          "slot": 6,
+          "start": "06:36",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "21:11",
+          "slot": 7,
+          "start": "13:53",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "04:28",
+          "slot": 8,
+          "start": "21:11",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ]
+    },
+    "date": "03-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:28:57",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Vishakha",
+      "tithi": "Navami",
+      "yoga": "Shukla"
+    },
+    "sunrise": "04:28:10",
+    "sunset": "18:07:47",
+    "timezone": "Asia/Kolkata",
+    "weekday": 5
+  },
+  "2025-07-04": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:10",
+          "slot": 1,
+          "start": "04:28",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "01:53",
+          "slot": 2,
+          "start": "03:10",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "00:35",
+          "slot": 3,
+          "start": "01:53",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:35",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "23:18",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "06:36",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "13:53",
+          "slot": 6,
+          "start": "06:36",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "21:11",
+          "slot": 7,
+          "start": "13:53",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "04:29",
+          "slot": 8,
+          "start": "21:11",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ]
+    },
+    "date": "04-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:29:22",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Anuradha",
+      "tithi": "Dashami",
+      "yoga": "Brahma"
+    },
+    "sunrise": "04:28:34",
+    "sunset": "18:07:45",
+    "timezone": "Asia/Kolkata",
+    "weekday": 6
+  },
+  "2025-07-05": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:11",
+          "slot": 1,
+          "start": "04:28",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "01:53",
+          "slot": 2,
+          "start": "03:11",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "00:35",
+          "slot": 3,
+          "start": "01:53",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:35",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "23:18",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "06:36",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "13:54",
+          "slot": 6,
+          "start": "06:36",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "21:12",
+          "slot": 7,
+          "start": "13:54",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "04:29",
+          "slot": 8,
+          "start": "21:12",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ]
+    },
+    "date": "05-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:29:47",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Jyeshtha",
+      "tithi": "Ekadashi",
+      "yoga": "Indra"
+    },
+    "sunrise": "04:28:57",
+    "sunset": "18:07:42",
+    "timezone": "Asia/Kolkata",
+    "weekday": 0
+  },
+  "2025-07-06": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:11",
+          "slot": 1,
+          "start": "04:29",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "01:53",
+          "slot": 2,
+          "start": "03:11",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "00:36",
+          "slot": 3,
+          "start": "01:53",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:36",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ],
+      "night": [
+        {
+          "color": "grey",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:18",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "06:36",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "13:54",
+          "slot": 6,
+          "start": "06:36",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "21:12",
+          "slot": 7,
+          "start": "13:54",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "04:30",
+          "slot": 8,
+          "start": "21:12",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ]
+    },
+    "date": "06-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:30:12",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Mula",
+      "tithi": "Dwadashi",
+      "yoga": "Vaidhriti"
+    },
+    "sunrise": "04:29:22",
+    "sunset": "18:07:38",
+    "timezone": "Asia/Kolkata",
+    "weekday": 1
+  },
+  "2025-07-07": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:12",
+          "slot": 1,
+          "start": "04:29",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "01:54",
+          "slot": 2,
+          "start": "03:12",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "00:36",
+          "slot": 3,
+          "start": "01:54",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:36",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "06:36",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "13:54",
+          "slot": 6,
+          "start": "06:36",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "21:12",
+          "slot": 7,
+          "start": "13:54",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "04:30",
+          "slot": 8,
+          "start": "21:12",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ]
+    },
+    "date": "07-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:30:38",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Purva Ashadha",
+      "tithi": "Trayodashi",
+      "yoga": "Vishkambha"
+    },
+    "sunrise": "04:29:47",
+    "sunset": "18:07:33",
+    "timezone": "Asia/Kolkata",
+    "weekday": 2
+  },
+  "2025-07-08": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:12",
+          "slot": 1,
+          "start": "04:30",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "01:54",
+          "slot": 2,
+          "start": "03:12",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "00:36",
+          "slot": 3,
+          "start": "01:54",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:36",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "06:37",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "13:55",
+          "slot": 6,
+          "start": "06:37",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:13",
+          "slot": 7,
+          "start": "13:55",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "04:31",
+          "slot": 8,
+          "start": "21:13",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ]
+    },
+    "date": "08-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:31:04",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Uttara Ashadha",
+      "tithi": "Chaturdashi",
+      "yoga": "Priti"
+    },
+    "sunrise": "04:30:12",
+    "sunset": "18:07:26",
+    "timezone": "Asia/Kolkata",
+    "weekday": 3
+  },
+  "2025-07-09": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:12",
+          "slot": 1,
+          "start": "04:30",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "01:54",
+          "slot": 2,
+          "start": "03:12",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "00:36",
+          "slot": 3,
+          "start": "01:54",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "23:18",
+          "slot": 4,
+          "start": "00:36",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:18",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "06:37",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "13:55",
+          "slot": 6,
+          "start": "06:37",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "21:13",
+          "slot": 7,
+          "start": "13:55",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "04:31",
+          "slot": 8,
+          "start": "21:13",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ]
+    },
+    "date": "09-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:31:31",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Shravana",
+      "tithi": "Purnima",
+      "yoga": "Ayushman"
+    },
+    "sunrise": "04:30:38",
+    "sunset": "18:07:18",
+    "timezone": "Asia/Kolkata",
+    "weekday": 4
+  },
+  "2025-07-10": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "grey",
+          "end": "03:13",
+          "slot": 1,
+          "start": "04:31",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "01:55",
+          "slot": 2,
+          "start": "03:13",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "00:37",
+          "slot": 3,
+          "start": "01:55",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:37",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "18:07",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:07",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "06:37",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "13:55",
+          "slot": 6,
+          "start": "06:37",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "21:13",
+          "slot": 7,
+          "start": "13:55",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "04:31",
+          "slot": 8,
+          "start": "21:13",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ]
+    },
+    "date": "10-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:31:57",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Shravana",
+      "tithi": "Pratipada",
+      "yoga": "Saubhagya"
+    },
+    "sunrise": "04:31:04",
+    "sunset": "18:07:09",
+    "timezone": "Asia/Kolkata",
+    "weekday": 5
+  },
+  "2025-07-11": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:13",
+          "slot": 1,
+          "start": "04:31",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "01:55",
+          "slot": 2,
+          "start": "03:13",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "00:37",
+          "slot": 3,
+          "start": "01:55",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:37",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "19:25",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "18:06",
+          "slot": 8,
+          "start": "19:25",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:06",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "06:37",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "13:56",
+          "slot": 6,
+          "start": "06:37",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "21:14",
+          "slot": 7,
+          "start": "13:56",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "04:32",
+          "slot": 8,
+          "start": "21:14",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ]
+    },
+    "date": "11-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:32:25",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Dhanishta",
+      "tithi": "Dvitiya",
+      "yoga": "Shobhana"
+    },
+    "sunrise": "04:31:31",
+    "sunset": "18:06:58",
+    "timezone": "Asia/Kolkata",
+    "weekday": 6
+  },
+  "2025-07-12": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:13",
+          "slot": 1,
+          "start": "04:31",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "01:55",
+          "slot": 2,
+          "start": "03:13",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "00:37",
+          "slot": 3,
+          "start": "01:55",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:37",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "18:06",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:25",
+          "slot": 1,
+          "start": "18:06",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:25",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "06:38",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "13:56",
+          "slot": 6,
+          "start": "06:38",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "21:14",
+          "slot": 7,
+          "start": "13:56",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "04:32",
+          "slot": 8,
+          "start": "21:14",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ]
+    },
+    "date": "12-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:32:52",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Shatabhisha",
+      "tithi": "Tritiya",
+      "yoga": "Atiganda"
+    },
+    "sunrise": "04:31:57",
+    "sunset": "18:06:46",
+    "timezone": "Asia/Kolkata",
+    "weekday": 0
+  },
+  "2025-07-13": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:14",
+          "slot": 1,
+          "start": "04:32",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "01:55",
+          "slot": 2,
+          "start": "03:14",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "00:37",
+          "slot": 3,
+          "start": "01:55",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:37",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "20:43",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:43",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "18:06",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ],
+      "night": [
+        {
+          "color": "grey",
+          "end": "01:24",
+          "slot": 1,
+          "start": "18:06",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:24",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "06:38",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "13:56",
+          "slot": 6,
+          "start": "06:38",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "21:14",
+          "slot": 7,
+          "start": "13:56",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "04:33",
+          "slot": 8,
+          "start": "21:14",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ]
+    },
+    "date": "13-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:33:20",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Purva Bhadrapada",
+      "tithi": "Chaturthi",
+      "yoga": "Sukarma"
+    },
+    "sunrise": "04:32:25",
+    "sunset": "18:06:33",
+    "timezone": "Asia/Kolkata",
+    "weekday": 1
+  },
+  "2025-07-14": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:14",
+          "slot": 1,
+          "start": "04:32",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "01:56",
+          "slot": 2,
+          "start": "03:14",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "00:37",
+          "slot": 3,
+          "start": "01:56",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:37",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "18:06",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:24",
+          "slot": 1,
+          "start": "18:06",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:24",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "06:38",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "13:56",
+          "slot": 6,
+          "start": "06:38",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "21:15",
+          "slot": 7,
+          "start": "13:56",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "04:33",
+          "slot": 8,
+          "start": "21:15",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ]
+    },
+    "date": "14-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:33:48",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Uttara Bhadrapada",
+      "tithi": "Panchami",
+      "yoga": "Dhriti"
+    },
+    "sunrise": "04:32:52",
+    "sunset": "18:06:19",
+    "timezone": "Asia/Kolkata",
+    "weekday": 2
+  },
+  "2025-07-15": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:14",
+          "slot": 1,
+          "start": "04:33",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "01:56",
+          "slot": 2,
+          "start": "03:14",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:56",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "18:06",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:24",
+          "slot": 1,
+          "start": "18:06",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:24",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "06:38",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "13:57",
+          "slot": 6,
+          "start": "06:38",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:15",
+          "slot": 7,
+          "start": "13:57",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "04:34",
+          "slot": 8,
+          "start": "21:15",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ]
+    },
+    "date": "15-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:34:17",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Ashwini",
+      "tithi": "Shashthi",
+      "yoga": "Shoola"
+    },
+    "sunrise": "04:33:20",
+    "sunset": "18:06:03",
+    "timezone": "Asia/Kolkata",
+    "weekday": 3
+  },
+  "2025-07-16": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:15",
+          "slot": 1,
+          "start": "04:33",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "01:56",
+          "slot": 2,
+          "start": "03:15",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:56",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "18:05",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:24",
+          "slot": 1,
+          "start": "18:05",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "08:43",
+          "slot": 2,
+          "start": "01:24",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:43",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "06:38",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "13:57",
+          "slot": 6,
+          "start": "06:38",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "21:16",
+          "slot": 7,
+          "start": "13:57",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "04:34",
+          "slot": 8,
+          "start": "21:16",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ]
+    },
+    "date": "16-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:34:45",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Bharani",
+      "tithi": "Saptami",
+      "yoga": "Ganda"
+    },
+    "sunrise": "04:33:48",
+    "sunset": "18:05:46",
+    "timezone": "Asia/Kolkata",
+    "weekday": 4
+  },
+  "2025-07-17": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "grey",
+          "end": "03:15",
+          "slot": 1,
+          "start": "04:34",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "01:57",
+          "slot": 2,
+          "start": "03:15",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:57",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "19:24",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "18:05",
+          "slot": 8,
+          "start": "19:24",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:24",
+          "slot": 1,
+          "start": "18:05",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:24",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "13:57",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "21:16",
+          "slot": 7,
+          "start": "13:57",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "04:35",
+          "slot": 8,
+          "start": "21:16",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ]
+    },
+    "date": "17-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:35:14",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Krittika",
+      "tithi": "Ashtami",
+      "yoga": "Vriddhi"
+    },
+    "sunrise": "04:34:17",
+    "sunset": "18:05:28",
+    "timezone": "Asia/Kolkata",
+    "weekday": 5
+  },
+  "2025-07-18": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:16",
+          "slot": 1,
+          "start": "04:34",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "01:57",
+          "slot": 2,
+          "start": "03:16",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:57",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:19",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "19:23",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "18:05",
+          "slot": 8,
+          "start": "19:23",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:23",
+          "slot": 1,
+          "start": "18:05",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:23",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "13:58",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "21:16",
+          "slot": 7,
+          "start": "13:58",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "04:35",
+          "slot": 8,
+          "start": "21:16",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ]
+    },
+    "date": "18-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:35:43",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Rohini",
+      "tithi": "Navami",
+      "yoga": "Dhruva"
+    },
+    "sunrise": "04:34:45",
+    "sunset": "18:05:09",
+    "timezone": "Asia/Kolkata",
+    "weekday": 6
+  },
+  "2025-07-19": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:16",
+          "slot": 1,
+          "start": "04:35",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "01:57",
+          "slot": 2,
+          "start": "03:16",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:57",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "19:23",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "18:04",
+          "slot": 8,
+          "start": "19:23",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:23",
+          "slot": 1,
+          "start": "18:04",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:23",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "13:58",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "21:17",
+          "slot": 7,
+          "start": "13:58",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "04:36",
+          "slot": 8,
+          "start": "21:17",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ]
+    },
+    "date": "19-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:36:13",
+    "panchang": {
+      "karana": "Balava",
+      "nakshatra": "Mrigashirsha",
+      "tithi": "Dashami",
+      "yoga": "Harshana"
+    },
+    "sunrise": "04:35:14",
+    "sunset": "18:04:48",
+    "timezone": "Asia/Kolkata",
+    "weekday": 0
+  },
+  "2025-07-20": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:16",
+          "slot": 1,
+          "start": "04:35",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "01:57",
+          "slot": 2,
+          "start": "03:16",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "00:38",
+          "slot": 3,
+          "start": "01:57",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:38",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "19:23",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "18:04",
+          "slot": 8,
+          "start": "19:23",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ],
+      "night": [
+        {
+          "color": "grey",
+          "end": "01:23",
+          "slot": 1,
+          "start": "18:04",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:23",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "13:58",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "21:17",
+          "slot": 7,
+          "start": "13:58",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "04:36",
+          "slot": 8,
+          "start": "21:17",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ]
+    },
+    "date": "20-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:36:42",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Ardra",
+      "tithi": "Dwadashi",
+      "yoga": "Vajra"
+    },
+    "sunrise": "04:35:43",
+    "sunset": "18:04:26",
+    "timezone": "Asia/Kolkata",
+    "weekday": 1
+  },
+  "2025-07-21": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:17",
+          "slot": 1,
+          "start": "04:36",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "01:58",
+          "slot": 2,
+          "start": "03:17",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:58",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "20:42",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "19:23",
+          "slot": 7,
+          "start": "20:42",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "18:04",
+          "slot": 8,
+          "start": "19:23",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:23",
+          "slot": 1,
+          "start": "18:04",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:23",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "13:58",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "21:18",
+          "slot": 7,
+          "start": "13:58",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "04:37",
+          "slot": 8,
+          "start": "21:18",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ]
+    },
+    "date": "21-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:37:11",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Punarvasu",
+      "tithi": "Trayodashi",
+      "yoga": "Siddhi"
+    },
+    "sunrise": "04:36:13",
+    "sunset": "18:04:03",
+    "timezone": "Asia/Kolkata",
+    "weekday": 2
+  },
+  "2025-07-22": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:17",
+          "slot": 1,
+          "start": "04:36",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "01:58",
+          "slot": 2,
+          "start": "03:17",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:58",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "22:01",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "20:41",
+          "slot": 6,
+          "start": "22:01",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "19:22",
+          "slot": 7,
+          "start": "20:41",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "18:03",
+          "slot": 8,
+          "start": "19:22",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:22",
+          "slot": 1,
+          "start": "18:03",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "08:42",
+          "slot": 2,
+          "start": "01:22",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:42",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "06:39",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "13:59",
+          "slot": 6,
+          "start": "06:39",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:18",
+          "slot": 7,
+          "start": "13:59",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "04:37",
+          "slot": 8,
+          "start": "21:18",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ]
+    },
+    "date": "22-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:37:41",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Pushya",
+      "tithi": "Chaturdashi",
+      "yoga": "Vyatipata"
+    },
+    "sunrise": "04:36:42",
+    "sunset": "18:03:39",
+    "timezone": "Asia/Kolkata",
+    "weekday": 3
+  },
+  "2025-07-23": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:17",
+          "slot": 1,
+          "start": "04:37",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "01:58",
+          "slot": 2,
+          "start": "03:17",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:58",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "20:41",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "19:22",
+          "slot": 7,
+          "start": "20:41",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "18:03",
+          "slot": 8,
+          "start": "19:22",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:22",
+          "slot": 1,
+          "start": "18:03",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "08:41",
+          "slot": 2,
+          "start": "01:22",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:41",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "13:59",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "21:18",
+          "slot": 7,
+          "start": "13:59",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "04:38",
+          "slot": 8,
+          "start": "21:18",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ]
+    },
+    "date": "23-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:38:10",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Ashlesha",
+      "tithi": "Amavasya",
+      "yoga": "Variyana"
+    },
+    "sunrise": "04:37:11",
+    "sunset": "18:03:13",
+    "timezone": "Asia/Kolkata",
+    "weekday": 4
+  },
+  "2025-07-24": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "grey",
+          "end": "03:18",
+          "slot": 1,
+          "start": "04:37",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "01:58",
+          "slot": 2,
+          "start": "03:18",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:58",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "20:41",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "19:22",
+          "slot": 7,
+          "start": "20:41",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "18:02",
+          "slot": 8,
+          "start": "19:22",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:22",
+          "slot": 1,
+          "start": "18:02",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "08:41",
+          "slot": 2,
+          "start": "01:22",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:41",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "13:59",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "21:19",
+          "slot": 7,
+          "start": "13:59",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "04:38",
+          "slot": 8,
+          "start": "21:19",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ]
+    },
+    "date": "24-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:38:40",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Magha",
+      "tithi": "Pratipada",
+      "yoga": "Parigha"
+    },
+    "sunrise": "04:37:41",
+    "sunset": "18:02:46",
+    "timezone": "Asia/Kolkata",
+    "weekday": 5
+  },
+  "2025-07-25": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:18",
+          "slot": 1,
+          "start": "04:38",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "01:59",
+          "slot": 2,
+          "start": "03:18",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:59",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "20:41",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "19:21",
+          "slot": 7,
+          "start": "20:41",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "18:02",
+          "slot": 8,
+          "start": "19:21",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:21",
+          "slot": 1,
+          "start": "18:02",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "08:41",
+          "slot": 2,
+          "start": "01:21",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:41",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "13:59",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "21:19",
+          "slot": 7,
+          "start": "13:59",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "04:39",
+          "slot": 8,
+          "start": "21:19",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ]
+    },
+    "date": "25-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:39:09",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Purva Phalguni",
+      "tithi": "Dvitiya",
+      "yoga": "Shiva"
+    },
+    "sunrise": "04:38:10",
+    "sunset": "18:02:18",
+    "timezone": "Asia/Kolkata",
+    "weekday": 6
+  },
+  "2025-07-26": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:19",
+          "slot": 1,
+          "start": "04:38",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "01:59",
+          "slot": 2,
+          "start": "03:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:59",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "20:41",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "19:21",
+          "slot": 7,
+          "start": "20:41",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "18:01",
+          "slot": 8,
+          "start": "19:21",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:21",
+          "slot": 1,
+          "start": "18:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "08:41",
+          "slot": 2,
+          "start": "01:21",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "16:01",
+          "slot": 3,
+          "start": "08:41",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:01",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "14:00",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "21:19",
+          "slot": 7,
+          "start": "14:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "04:39",
+          "slot": 8,
+          "start": "21:19",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ]
+    },
+    "date": "26-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:39:39",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Uttara Phalguni",
+      "tithi": "Tritiya",
+      "yoga": "Siddha"
+    },
+    "sunrise": "04:38:40",
+    "sunset": "18:01:48",
+    "timezone": "Asia/Kolkata",
+    "weekday": 0
+  },
+  "2025-07-27": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:19",
+          "slot": 1,
+          "start": "04:39",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "01:59",
+          "slot": 2,
+          "start": "03:19",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "00:39",
+          "slot": 3,
+          "start": "01:59",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:39",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "20:40",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "19:21",
+          "slot": 7,
+          "start": "20:40",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "18:01",
+          "slot": 8,
+          "start": "19:21",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ],
+      "night": [
+        {
+          "color": "grey",
+          "end": "01:21",
+          "slot": 1,
+          "start": "18:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "08:41",
+          "slot": 2,
+          "start": "01:21",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:41",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "14:00",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "21:20",
+          "slot": 7,
+          "start": "14:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "04:40",
+          "slot": 8,
+          "start": "21:20",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ]
+    },
+    "date": "27-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:40:08",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Hasta",
+      "tithi": "Chaturthi",
+      "yoga": "Sadhya"
+    },
+    "sunrise": "04:39:09",
+    "sunset": "18:01:18",
+    "timezone": "Asia/Kolkata",
+    "weekday": 1
+  },
+  "2025-07-28": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "red",
+          "end": "03:19",
+          "slot": 1,
+          "start": "04:39",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "01:59",
+          "slot": 2,
+          "start": "03:19",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "00:40",
+          "slot": 3,
+          "start": "01:59",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:40",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "20:40",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "19:20",
+          "slot": 7,
+          "start": "20:40",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "18:00",
+          "slot": 8,
+          "start": "19:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:20",
+          "slot": 1,
+          "start": "18:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "08:40",
+          "slot": 2,
+          "start": "01:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:40",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "14:00",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "21:20",
+          "slot": 7,
+          "start": "14:00",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "04:40",
+          "slot": 8,
+          "start": "21:20",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        }
+      ]
+    },
+    "date": "28-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:40:37",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Chitra",
+      "tithi": "Panchami",
+      "yoga": "Shubha"
+    },
+    "sunrise": "04:39:39",
+    "sunset": "18:00:46",
+    "timezone": "Asia/Kolkata",
+    "weekday": 2
+  },
+  "2025-07-29": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:20",
+          "slot": 1,
+          "start": "04:40",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "02:00",
+          "slot": 2,
+          "start": "03:20",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "00:40",
+          "slot": 3,
+          "start": "02:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:40",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "20:40",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "19:20",
+          "slot": 7,
+          "start": "20:40",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "18:00",
+          "slot": 8,
+          "start": "19:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:20",
+          "slot": 1,
+          "start": "18:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "08:40",
+          "slot": 2,
+          "start": "01:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:40",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "14:00",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:21",
+          "slot": 7,
+          "start": "14:00",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "04:41",
+          "slot": 8,
+          "start": "21:21",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        }
+      ]
+    },
+    "date": "29-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:41:07",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Swati",
+      "tithi": "Shashthi",
+      "yoga": "Shukla"
+    },
+    "sunrise": "04:40:08",
+    "sunset": "18:00:13",
+    "timezone": "Asia/Kolkata",
+    "weekday": 3
+  },
+  "2025-07-30": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "green",
+          "end": "03:20",
+          "slot": 1,
+          "start": "04:40",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "02:00",
+          "slot": 2,
+          "start": "03:20",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "00:40",
+          "slot": 3,
+          "start": "02:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:40",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "22:00",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "20:39",
+          "slot": 6,
+          "start": "22:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "19:19",
+          "slot": 7,
+          "start": "20:39",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "17:59",
+          "slot": 8,
+          "start": "19:19",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        }
+      ],
+      "night": [
+        {
+          "color": "green",
+          "end": "01:19",
+          "slot": 1,
+          "start": "17:59",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "08:40",
+          "slot": 2,
+          "start": "01:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:40",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "14:01",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "21:21",
+          "slot": 7,
+          "start": "14:01",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "04:41",
+          "slot": 8,
+          "start": "21:21",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        }
+      ]
+    },
+    "date": "30-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:41:36",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Vishakha",
+      "tithi": "Saptami",
+      "yoga": "Brahma"
+    },
+    "sunrise": "04:40:37",
+    "sunset": "17:59:39",
+    "timezone": "Asia/Kolkata",
+    "weekday": 4
+  },
+  "2025-07-31": {
+    "chogadiya": {
+      "day": [
+        {
+          "color": "grey",
+          "end": "03:20",
+          "slot": 1,
+          "start": "04:41",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "green",
+          "end": "02:00",
+          "slot": 2,
+          "start": "03:20",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "green",
+          "end": "00:40",
+          "slot": 3,
+          "start": "02:00",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "00:40",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "21:59",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "red",
+          "end": "20:39",
+          "slot": 6,
+          "start": "21:59",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "19:19",
+          "slot": 7,
+          "start": "20:39",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "grey",
+          "end": "17:59",
+          "slot": 8,
+          "start": "19:19",
+          "tag": "Neutral",
+          "type": "Chal"
+        }
+      ],
+      "night": [
+        {
+          "color": "red",
+          "end": "01:19",
+          "slot": 1,
+          "start": "17:59",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        },
+        {
+          "color": "red",
+          "end": "08:39",
+          "slot": 2,
+          "start": "01:19",
+          "tag": "Inauspicious",
+          "type": "Kaal"
+        },
+        {
+          "color": "green",
+          "end": "16:00",
+          "slot": 3,
+          "start": "08:39",
+          "tag": "Auspicious",
+          "type": "Labh"
+        },
+        {
+          "color": "red",
+          "end": "23:20",
+          "slot": 4,
+          "start": "16:00",
+          "tag": "Inauspicious",
+          "type": "Udveg"
+        },
+        {
+          "color": "green",
+          "end": "06:40",
+          "slot": 5,
+          "start": "23:20",
+          "tag": "Auspicious",
+          "type": "Shubh"
+        },
+        {
+          "color": "green",
+          "end": "14:01",
+          "slot": 6,
+          "start": "06:40",
+          "tag": "Auspicious",
+          "type": "Amrit"
+        },
+        {
+          "color": "grey",
+          "end": "21:21",
+          "slot": 7,
+          "start": "14:01",
+          "tag": "Neutral",
+          "type": "Chal"
+        },
+        {
+          "color": "red",
+          "end": "04:42",
+          "slot": 8,
+          "start": "21:21",
+          "tag": "Inauspicious",
+          "type": "Rog"
+        }
+      ]
+    },
+    "date": "31-07-2025",
+    "latitude": 25.6701,
+    "longitude": 94.1077,
+    "next_sunrise": "04:42:05",
+    "panchang": {
+      "karana": "Bava",
+      "nakshatra": "Anuradha",
+      "tithi": "Ashtami",
+      "yoga": "Indra"
+    },
+    "sunrise": "04:41:07",
+    "sunset": "17:59:04",
+    "timezone": "Asia/Kolkata",
+    "weekday": 5
+  }
+}
