@@ -1,205 +1,198 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 [\
-  \{\
-    "state": "Andhra Pradesh",\
-    "capital": "Amaravati",\
-    "lat": 16.5417,\
-    "lon": 80.515,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Andhra_Pradesh.json"\
-  \},\
-  \{\
-    "state": "Arunachal Pradesh",\
-    "capital": "Itanagar",\
-    "lat": 27.0844,\
-    "lon": 93.6053,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Arunachal_Pradesh.json"\
-  \},\
-  \{\
-    "state": "Assam",\
-    "capital": "Dispur",\
-    "lat": 26.1445,\
-    "lon": 91.7362,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Assam.json"\
-  \},\
-  \{\
-    "state": "Bihar",\
-    "capital": "Patna",\
-    "lat": 25.5941,\
-    "lon": 85.1376,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Bihar.json"\
-  \},\
-  \{\
-    "state": "Chhattisgarh",\
-    "capital": "Raipur",\
-    "lat": 21.2514,\
-    "lon": 81.6296,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Chhattisgarh.json"\
-  \},\
-  \{\
-    "state": "Goa",\
-    "capital": "Panaji",\
-    "lat": 15.4909,\
-    "lon": 73.8278,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Goa.json"\
-  \},\
-  \{\
-    "state": "Gujarat",\
-    "capital": "Gandhinagar",\
-    "lat": 23.223,\
-    "lon": 72.65,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Gujarat.json"\
-  \},\
-  \{\
-    "state": "Haryana",\
-    "capital": "Chandigarh",\
-    "lat": 30.7333,\
-    "lon": 76.7794,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Haryana.json"\
-  \},\
-  \{\
-    "state": "Himachal Pradesh",\
-    "capital": "Shimla",\
-    "lat": 31.1048,\
-    "lon": 77.1734,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Himachal_Pradesh.json"\
-  \},\
-  \{\
-    "state": "Jharkhand",\
-    "capital": "Ranchi",\
-    "lat": 23.3441,\
-    "lon": 85.3096,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Jharkhand.json"\
-  \},\
-  \{\
-    "state": "Karnataka",\
-    "capital": "Bengaluru",\
-    "lat": 12.9716,\
-    "lon": 77.5946,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Karnataka.json"\
-  \},\
-  \{\
-    "state": "Kerala",\
-    "capital": "Thiruvananthapuram",\
-    "lat": 8.5241,\
-    "lon": 76.9366,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Kerala.json"\
-  \},\
-  \{\
-    "state": "Madhya Pradesh",\
-    "capital": "Bhopal",\
-    "lat": 23.2599,\
-    "lon": 77.4126,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Madhya_Pradesh.json"\
-  \},\
-  \{\
-    "state": "Maharashtra",\
-    "capital": "Mumbai",\
-    "lat": 19.076,\
-    "lon": 72.8777,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Maharashtra.json"\
-  \},\
-  \{\
-    "state": "Manipur",\
-    "capital": "Imphal",\
-    "lat": 24.817,\
-    "lon": 93.9368,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Manipur.json"\
-  \},\
-  \{\
-    "state": "Meghalaya",\
-    "capital": "Shillong",\
-    "lat": 25.5788,\
-    "lon": 91.8933,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Meghalaya.json"\
-  \},\
-  \{\
-    "state": "Mizoram",\
-    "capital": "Aizawl",\
-    "lat": 23.7271,\
-    "lon": 92.7176,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Mizoram.json"\
-  \},\
-  \{\
-    "state": "Nagaland",\
-    "capital": "Kohima",\
-    "lat": 25.6701,\
-    "lon": 94.1077,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Nagaland.json"\
-  \},\
-  \{\
-    "state": "Odisha",\
-    "capital": "Bhubaneswar",\
-    "lat": 20.2961,\
-    "lon": 85.8245,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Odisha.json"\
-  \},\
-  \{\
-    "state": "Punjab",\
-    "capital": "Chandigarh",\
-    "lat": 30.7333,\
-    "lon": 76.7794,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Punjab.json"\
-  \},\
-  \{\
-    "state": "Rajasthan",\
-    "capital": "Jaipur",\
-    "lat": 26.9124,\
-    "lon": 75.7873,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Rajasthan.json"\
-  \},\
-  \{\
-    "state": "Sikkim",\
-    "capital": "Gangtok",\
-    "lat": 27.3314,\
-    "lon": 88.6138,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Sikkim.json"\
-  \},\
-  \{\
-    "state": "Tamil Nadu",\
-    "capital": "Chennai",\
-    "lat": 13.0827,\
-    "lon": 80.2707,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Tamil_Nadu.json"\
-  \},\
-  \{\
-    "state": "Telangana",\
-    "capital": "Hyderabad",\
-    "lat": 17.385,\
-    "lon": 78.4867,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Telangana.json"\
-  \},\
-  \{\
-    "state": "Tripura",\
-    "capital": "Agartala",\
-    "lat": 23.8315,\
-    "lon": 91.2868,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Tripura.json"\
-  \},\
-  \{\
-    "state": "Uttar Pradesh",\
-    "capital": "Lucknow",\
-    "lat": 26.8467,\
-    "lon": 80.9462,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Uttar_Pradesh.json"\
-  \},\
-  \{\
-    "state": "Uttarakhand",\
-    "capital": "Dehradun",\
-    "lat": 30.3165,\
-    "lon": 78.0322,\
-    "fileName": "https://rohban0u.github.io/m-panchang/Uttarakhand.json"\
-  \},\
-  \{\
-    "state": "West Bengal",\
-    "capital": "Kolkata",\
-    "lat": 22.5726,\
-    "lon": 88.3639,\
-    "fileName": "https://rohban0u.github.io/m-panchang/West_Bengal.json"\
-  \}\
-]}
+[
+  {
+    "state": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "lat": 16.5417,
+    "lon": 80.515,
+    "fileName": "https://rohban0u.github.io/m-panchang/Andhra_Pradesh.json"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "lat": 27.0844,
+    "lon": 93.6053,
+    "fileName": "https://rohban0u.github.io/m-panchang/Arunachal_Pradesh.json"
+  },
+  {
+    "state": "Assam",
+    "capital": "Dispur",
+    "lat": 26.1445,
+    "lon": 91.7362,
+    "fileName": "https://rohban0u.github.io/m-panchang/Assam.json"
+  },
+  {
+    "state": "Bihar",
+    "capital": "Patna",
+    "lat": 25.5941,
+    "lon": 85.1376,
+    "fileName": "https://rohban0u.github.io/m-panchang/Bihar.json"
+  },
+  {
+    "state": "Chhattisgarh",
+    "capital": "Raipur",
+    "lat": 21.2514,
+    "lon": 81.6296,
+    "fileName": "https://rohban0u.github.io/m-panchang/Chhattisgarh.json"
+  },
+  {
+    "state": "Goa",
+    "capital": "Panaji",
+    "lat": 15.4909,
+    "lon": 73.8278,
+    "fileName": "https://rohban0u.github.io/m-panchang/Goa.json"
+  },
+  {
+    "state": "Gujarat",
+    "capital": "Gandhinagar",
+    "lat": 23.223,
+    "lon": 72.65,
+    "fileName": "https://rohban0u.github.io/m-panchang/Gujarat.json"
+  },
+  {
+    "state": "Haryana",
+    "capital": "Chandigarh",
+    "lat": 30.7333,
+    "lon": 76.7794,
+    "fileName": "https://rohban0u.github.io/m-panchang/Haryana.json"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "capital": "Shimla",
+    "lat": 31.1048,
+    "lon": 77.1734,
+    "fileName": "https://rohban0u.github.io/m-panchang/Himachal_Pradesh.json"
+  },
+  {
+    "state": "Jharkhand",
+    "capital": "Ranchi",
+    "lat": 23.3441,
+    "lon": 85.3096,
+    "fileName": "https://rohban0u.github.io/m-panchang/Jharkhand.json"
+  },
+  {
+    "state": "Karnataka",
+    "capital": "Bengaluru",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "fileName": "https://rohban0u.github.io/m-panchang/Karnataka.json"
+  },
+  {
+    "state": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "lat": 8.5241,
+    "lon": 76.9366,
+    "fileName": "https://rohban0u.github.io/m-panchang/Kerala.json"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "lat": 23.2599,
+    "lon": 77.4126,
+    "fileName": "https://rohban0u.github.io/m-panchang/Madhya_Pradesh.json"
+  },
+  {
+    "state": "Maharashtra",
+    "capital": "Mumbai",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "fileName": "https://rohban0u.github.io/m-panchang/Maharashtra.json"
+  },
+  {
+    "state": "Manipur",
+    "capital": "Imphal",
+    "lat": 24.817,
+    "lon": 93.9368,
+    "fileName": "https://rohban0u.github.io/m-panchang/Manipur.json"
+  },
+  {
+    "state": "Meghalaya",
+    "capital": "Shillong",
+    "lat": 25.5788,
+    "lon": 91.8933,
+    "fileName": "https://rohban0u.github.io/m-panchang/Meghalaya.json"
+  },
+  {
+    "state": "Mizoram",
+    "capital": "Aizawl",
+    "lat": 23.7271,
+    "lon": 92.7176,
+    "fileName": "https://rohban0u.github.io/m-panchang/Mizoram.json"
+  },
+  {
+    "state": "Nagaland",
+    "capital": "Kohima",
+    "lat": 25.6701,
+    "lon": 94.1077,
+    "fileName": "https://rohban0u.github.io/m-panchang/Nagaland.json"
+  },
+  {
+    "state": "Odisha",
+    "capital": "Bhubaneswar",
+    "lat": 20.2961,
+    "lon": 85.8245,
+    "fileName": "https://rohban0u.github.io/m-panchang/Odisha.json"
+  },
+  {
+    "state": "Punjab",
+    "capital": "Chandigarh",
+    "lat": 30.7333,
+    "lon": 76.7794,
+    "fileName": "https://rohban0u.github.io/m-panchang/Punjab.json"
+  },
+  {
+    "state": "Rajasthan",
+    "capital": "Jaipur",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "fileName": "https://rohban0u.github.io/m-panchang/Rajasthan.json"
+  },
+  {
+    "state": "Sikkim",
+    "capital": "Gangtok",
+    "lat": 27.3314,
+    "lon": 88.6138,
+    "fileName": "https://rohban0u.github.io/m-panchang/Sikkim.json"
+  },
+  {
+    "state": "Tamil Nadu",
+    "capital": "Chennai",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "fileName": "https://rohban0u.github.io/m-panchang/Tamil_Nadu.json"
+  },
+  {
+    "state": "Telangana",
+    "capital": "Hyderabad",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "fileName": "https://rohban0u.github.io/m-panchang/Telangana.json"
+  },
+  {
+    "state": "Tripura",
+    "capital": "Agartala",
+    "lat": 23.8315,
+    "lon": 91.2868,
+    "fileName": "https://rohban0u.github.io/m-panchang/Tripura.json"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "fileName": "https://rohban0u.github.io/m-panchang/Uttar_Pradesh.json"
+  },
+  {
+    "state": "Uttarakhand",
+    "capital": "Dehradun",
+    "lat": 30.3165,
+    "lon": 78.0322,
+    "fileName": "https://rohban0u.github.io/m-panchang/Uttarakhand.json"
+  },
+  {
+    "state": "West Bengal",
+    "capital": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "fileName": "https://rohban0u.github.io/m-panchang/West_Bengal.json"
+  }
+]
